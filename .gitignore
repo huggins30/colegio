@@ -1,0 +1,13 @@
+# Archivos a ignorar
+node_modules/
+*.log
+.env
+dist/
+build/
+*.exe
+*.dll
+
+# Sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
